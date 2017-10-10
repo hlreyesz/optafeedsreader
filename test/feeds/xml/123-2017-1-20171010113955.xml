@@ -1,0 +1,25 @@
+
+  <?xml version="1.0" encoding="UTF-8"?>
+  <!-- Copyright 2001-2015 Opta Sportsdata Ltd. All rights reserved. -->
+
+  <!-- PRODUCTION HEADER
+       produced on:        valde-jobq-a05.nexus.opta.net
+       production time:    20150730T010037,183Z
+       production module:  Opta::Feed::XML::Soccer::F9
+  -->
+  <SoccerFeed TimeStamp="20150730T020037+0100">
+    <SoccerDocument Type="Latest" uID="f827601">
+      <Competition uID="c420">
+        <Country>Copa Libertadores</Country>
+        <Name>Copa Libertadores</Name>
+        <Round>
+          <Name>Final</Name>
+          <RoundNumber>6</RoundNumber>
+        </Round>
+        <Stat Type="season_id">2014</Stat>
+        <Stat Type="season_name">Season 2014/2015</Stat>
+        <Stat Type="symid">SUD_CL</Stat>
+        <Stat Type="matchday">15</Stat>
+      </Competition>
+    </SoccerDocument>
+  </SoccerFeed>
